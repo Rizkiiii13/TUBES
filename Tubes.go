@@ -210,7 +210,6 @@ func cariMateri(data *tabCatatan, jumlah int) {
 	}
 
 	fmt.Println("\n==== CARI MATERI ====")
-	fmt.Println("Menu ini menggunakan Binary Search.")
 	fmt.Print("Masukkan nama matkul yang dicari: ")
 	fmt.Scan(&keyword)
 
